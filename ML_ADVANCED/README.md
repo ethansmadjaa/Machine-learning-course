@@ -1,7 +1,7 @@
 # Advanced Machine Learning Course
 ## ECE Paris - ING4 Master DATA & AI
 
-This repository contains materials and assignments for the Advanced Machine Learning course at ECE Paris, part of the ING4 Master's program in Data Science & Artificial Intelligence.
+This folder contains materials and assignments for the Advanced Machine Learning course at ECE Paris, part of the ING4 Master's program in Data Science & Artificial Intelligence.
 
 ## 📚 Course Overview
 
@@ -39,15 +39,11 @@ This repository will be updated weekly with:
 
 ## 🚀 Getting Started
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/ethansmadjaa/ML_LABS2.git
-   ```
-
-3. launch your jupyter server:
-    ```bash
-    jupyter notebook
-    ```
+1. Navigate to the specific notebook you want to run
+2. Launch your jupyter server and run the notebook
+```bash
+jupyter notebook
+```
 
 ## 📝 Course Topics
 
